@@ -1,0 +1,15 @@
+
+
+header {
+    height: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: darkred;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-color: darkred;
+}
