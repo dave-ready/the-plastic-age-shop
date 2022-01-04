@@ -13,5 +13,9 @@ body {
     background-color: darkred;
 }
 
-
+form {
+    margin-top: 200px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
 
